@@ -7,21 +7,7 @@ LiaisonLabor
 An interface to the LIAISON® analyser by DiaSorin
 <http://www.diasorin.com/en/productsandsystems/liaison>
 
-== FEATURES/PROBLEMS:
-
-* not yet written
-
-== SYNOPSIS:
-
-  not yet written
-
-== REQUIREMENTS:
-
-* not yet written
-
-== INSTALL:
-
-* not yet written
+This is a dead project. Use http://github.com/levinalex/lis instead.
 
 == LICENSE:
 
